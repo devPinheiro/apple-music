@@ -1,6 +1,6 @@
 import React from 'react'
 import msToMS from '../util'
-const Song = ({image, title, artist, duration}) => {
+const Song = ({ title, artist, duration}) => {
     return (
       <div className='song'>
         {/* <img className='song_image' src={image} alt='cover' /> */}
