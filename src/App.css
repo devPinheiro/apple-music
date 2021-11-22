@@ -100,3 +100,9 @@ body {
     transform: translate(0);
 }
 }
+
+@media (max-width: 425px) {
+  .playlist {
+    width: 260px;
+  }
+}
